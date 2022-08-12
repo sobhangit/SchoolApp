@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SchoolApp.Models;
+using SchoolApp.Model.Models;
+using SchoolApp.Model.Models.ViewModels;
 using System.Diagnostics;
 
 namespace SchoolApp.Controllers
